@@ -1,3 +1,5 @@
+# Matematik ve Pi Sayısı
+
 Bu blog yazısında matematikteki Pi sayısı ile ilgili düşüncelerime yer vericeğim . Tanımı ile bilindiği gibi Pi sayısı (π) bir dairenin çevresinin çapına bölümü ile elde edilen irrasyonel matematik sabitidir .
 
 Bu tanımı ilk duyulduğunda herhangi bir  matematik terimi gibi geliyor , ama Pi sayısı milat öncesinden beridir araştırılan ve hesaplama konusunda takıntılı olan bir sürü bilim insanını üzerinde emek harcadığı ve hala bir kesin sonuca varılamadı bir sabittir.Bu insanlardan bir tanesi de arşimetti . Arşimetin sözü olan 'Çemberlerime dokunmayın' durumu gayet düzgün açıklıyor .
